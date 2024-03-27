@@ -11,7 +11,7 @@ import SwiftUI
 struct initializerBootcampApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            ContentView(backgroundColor: .orange, count: 10, title: "Oranges")
         }
     }
 }

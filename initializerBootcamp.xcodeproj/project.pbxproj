@@ -11,6 +11,8 @@
 		04017C4F2BB2A8C30099D176 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04017C4E2BB2A8C30099D176 /* ContentView.swift */; };
 		04017C512BB2A8C40099D176 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 04017C502BB2A8C40099D176 /* Assets.xcassets */; };
 		04017C542BB2A8C40099D176 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 04017C532BB2A8C40099D176 /* Preview Assets.xcassets */; };
+		04017C5B2BB3E7BF0099D176 /* Test.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04017C5A2BB3E7BF0099D176 /* Test.swift */; };
+		04017C5D2BB3E92E0099D176 /* NameTextView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04017C5C2BB3E92E0099D176 /* NameTextView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		04017C4E2BB2A8C30099D176 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		04017C502BB2A8C40099D176 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		04017C532BB2A8C40099D176 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		04017C5A2BB3E7BF0099D176 /* Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Test.swift; sourceTree = "<group>"; };
+		04017C5C2BB3E92E0099D176 /* NameTextView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NameTextView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +59,8 @@
 				04017C4E2BB2A8C30099D176 /* ContentView.swift */,
 				04017C502BB2A8C40099D176 /* Assets.xcassets */,
 				04017C522BB2A8C40099D176 /* Preview Content */,
+				04017C5A2BB3E7BF0099D176 /* Test.swift */,
+				04017C5C2BB3E92E0099D176 /* NameTextView.swift */,
 			);
 			path = initializerBootcamp;
 			sourceTree = "<group>";
@@ -139,6 +145,8 @@
 			files = (
 				04017C4F2BB2A8C30099D176 /* ContentView.swift in Sources */,
 				04017C4D2BB2A8C30099D176 /* initializerBootcampApp.swift in Sources */,
+				04017C5D2BB3E92E0099D176 /* NameTextView.swift in Sources */,
+				04017C5B2BB3E7BF0099D176 /* Test.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
